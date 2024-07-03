@@ -46,7 +46,7 @@ export default function Home( { posts, comments }: HomeProps) {
           </section>
           <section className={styles.box}>
             <span>
-              +{comments} cometários
+              +{comments} Cometários
             </span>
           </section>
         </div>
