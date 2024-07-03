@@ -21,7 +21,7 @@ export default function Home( { posts, comments }: HomeProps) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Crate Nexte App</title>
+        <title>Tarefas Plus</title>
       </Head>
 
       <main className={styles.main}>
